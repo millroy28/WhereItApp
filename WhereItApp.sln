@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereItApp", "WhereItApp\WhereItApp.csproj", "{FBA1A5B4-ABCE-4C1B-88BF-C9C2ECAB9BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA1A5B4-ABCE-4C1B-88BF-C9C2ECAB9BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA1A5B4-ABCE-4C1B-88BF-C9C2ECAB9BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA1A5B4-ABCE-4C1B-88BF-C9C2ECAB9BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA1A5B4-ABCE-4C1B-88BF-C9C2ECAB9BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F75CCB-29C4-474A-B763-23E6C5C04948}
+	EndGlobalSection
+EndGlobal
