@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "WhereItAt": {
+    "WhereItApp": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

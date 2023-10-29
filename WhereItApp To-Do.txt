@@ -1,0 +1,75 @@
+WhereItApp development diary
+=============================
+
+----------------------------- 
+		CURRENT WORK
+-----------------------------
+001
+		-	Create basic landing page for a new user
+		-	Create basic landing page for existing user
+		-	Create page for user to see/edit their details
+
+----------------------------- 
+		SCOPE
+-----------------------------
+
+Functionality Vision:
+USER
+	I can create a new account
+	I can log in / log out
+	I can specify and change my user details
+	I can 
+REALM
+	I can create and define a Realm
+	I can change details of the Realm I own
+	I can invite other users to a Realm I own
+	I can remove other users from the Realm I own
+	I can see statistical details about Realm I own
+WHERES (locations)
+	I can create a locations
+	I can see what items are in a locations
+	I can remove an empty locations
+ITS (items)
+	I can create and place an item in a locations
+	I can look up the location of an item via a search
+	I can move an item from one location to another
+	I can remove an item from one location to another
+	I can create an place an item in a location but have that item and location be private to me
+	When I place an item, locations that exist will be suggested, but not enforced, as possible destinations
+	I can see the history of an item as in who moved it and when, so long as the item is not privately owned by another user
+EXPERIENCE
+	I can do all of the above from my computer or a phone
+	
+
+----------------------------- 
+		UPCOMING WORK
+-----------------------------
+USER
+	-	Controller gets current simple userId to pass around
+
+	-	Menu bar link to page where user can see and edit their details
+REALM
+	-	Prompt to create realm if user not invited to a realm
+	-	Page to create/manage realm
+	-	Ability to invite existing user to a realm
+	-	Ability to invite new user to a realm
+		-	Generate invitation link that has some form data or something? never done this - to research
+	-	Ability to list realms and summary data 
+	-	Ability to remove users from a realm
+	-	Ability to see a list of all WhereIts in a realm
+
+
+----------------------------- 
+		COMPLETED WORK
+-----------------------------
+-	Initial MVC Itentity setup		10/23/23
+-	Initial DB table definitions	10/23/23
+-	Initial GIT repository 			10/26/23
+	
+0.00.0001
+-	Setup Sengrid for regitstration / pwd reset
+
+----------------------------- 
+		DEPLOYMENTS
+-----------------------------
+

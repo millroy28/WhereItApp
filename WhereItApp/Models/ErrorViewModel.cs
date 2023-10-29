@@ -1,4 +1,4 @@
-namespace WhereItAt.Models
+namespace WhereItApp.Models
 {
     public class ErrorViewModel
     {
